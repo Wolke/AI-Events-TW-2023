@@ -3,10 +3,28 @@
 歡迎來到 2023 年台灣 AI 活動懶人包！這個 README 文件將提供您在台灣地區參與 AI 領域的講座、年會、 AI 小聚和 AI 講者的簡要概述。
 
 ## 目錄
+1. [AI 小聚](#ai-小聚)
+2. [AI 講座](#ai-講座)
+3. [AI 年會](#ai-年會)
 
-1. [AI 講座](#ai-講座)
-2. [AI 年會](#ai-年會)
-3. [AI 小聚](#ai-小聚)
+
+## AI 小聚
+
+### Generative AI 年會小聚 - 台北場 ft. HappyDesigner Meetup
+- **日期：** 2023/09/20 (周三) 
+- **時間：** 19:00(+0800) ~ 21:30(+0800)
+- **地點：** Fourdesire / 臺北市 大同區 重慶北路一段1-1號12樓
+- **活動頁：** [活動頁](https://blindegg.kktix.cc/events/202309gai)
+- **主辦：** Generative AI 年會製作委員會
+- **連同開場講者李慕約共會 9 位講者（據說這一場會有🍮）。
+
+
+### Open Source Chatbot 小聚
+- **日期：** 10.12 (四) 晚上
+- **地點：** 台北重慶南路 天瓏書局
+- **入場費：** 100元（可抵書款）
+- **講者：** [Wolke Lin 林建宏](#wolke-lin-林建宏) As An Inspirer Collaborate AI，著有程式技術書籍，也是大學講師、社群講者。
+- **主辦：** [Open Source Chatbot](#open-source-chatbot)
 
 ## AI 講座
 
@@ -30,24 +48,18 @@
 - **入場費：** 100元
 - **講者：** [Wolke Lin 林建宏](#wolke-lin-林建宏) As An Inspirer Collaborate AI，著有程式技術書籍，也是大學講師、社群講者。
 
-## AI 年會
-
-## AI 小聚
-
-### Open Source Chatbot 小聚
-- **日期：** 10.12 (四) 晚上
-- **地點：** 台北重慶南路 天瓏書局
-- **入場費：** 100元（可抵書款）
-- **講者：** [Wolke Lin 林建宏](#wolke-lin-林建宏) As An Inspirer Collaborate AI，著有程式技術書籍，也是大學講師、社群講者。
-- **主辦：** [Open Source Chatbot](#open-source-chatbot)
-
 ## AI 單位
+
+### Generative AI 年會製作委員會]
 
 ### [Open Source Chatbot](#open-source-chatbot) [fb group](https://www.facebook.com/groups/592060117639034)
 Chatbot Developers Taiwan 社群致力於提供一個討論聊天機器人的相關應用的社群。在台北、台中每個月皆有一次的定期 meetup 聚會，每回小聚都會安排講者主題分享、新知討論，環繞在 chatbot 與 AI ，及大家共同關心的話題中。歡迎大家踴躍分享、自由與會眾交流，也期望大家可以在分享中得到收穫。 同時，也很歡迎各位自薦、推薦講者。亦或者是上台閃電秀，分享自己開發的 chatbot 或是任何 chatbot 有關的任何議題。
 
 ### [ChatGPT x AI 融入教學](#ChatGPTxAI) [fb group](https://www.facebook.com/groups/164643249864737)
 一起交流如何利用 AI 讓教育更好
+
+## AI 年會
+
 
 ## AI 講者
 
