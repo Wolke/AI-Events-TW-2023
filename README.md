@@ -14,7 +14,7 @@
 ### 與 AI 協作講座/工作坊
 - **日期：** 9.23 (六)
 - **地點：** 新北三峽 一片一頁
-- **活動頁：** [活動頁](活動頁的連結)
+- **活動頁：** [活動頁](https://www.facebook.com/100063693924843/posts/pfbid036rxxwdAay7b68oQnVgKgUvAXaedFNGEaxit3XjRFnb8gH69D6G9QyNcAp7JPfhNul/?mibextid=cr9u03))
 - **入場費：** 免費入場
 - **講者：** [Wolke Lin 林建宏](#wolke-lin-林建宏) As An Inspirer Collaborate AI，著有程式技術書籍，也是大學講師、社群講者。
 
@@ -31,9 +31,9 @@
 - **講者：** [Wolke Lin 林建宏](#wolke-lin-林建宏) As An Inspirer Collaborate AI，著有程式技術書籍，也是大學講師、社群講者。
 
 ### ChatGPT 與 AI 應用 專題分享會
-- **日期：** 10.22 (日)
+- **日期：** 10.22 (日) 下午
 - **地點：** 新北中和南勢角 燦爛時光：東南亞主題書店 Brilliant Time bookstore
-- **活動頁：** [活動頁](活動頁的連結)
+- **活動頁：** [活動頁](https://www.facebook.com/events/300001609308026/?acontext=%7B%22ref%22%3A%2252%22%2C%22action_history%22%3A%22%5B%7B%5C%22surface%5C%22%3A%5C%22share_link%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22share_link%5C%22%2C%5C%22extra_data%5C%22%3A%7B%5C%22invite_link_id%5C%22%3A749179343680726%7D%7D%5D%22%7D)
 - **入場費：** 100元
 - **講者：** [Wolke Lin 林建宏](#wolke-lin-林建宏) As An Inspirer Collaborate AI，著有程式技術書籍，也是大學講師、社群講者。
 
