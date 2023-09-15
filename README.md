@@ -15,7 +15,7 @@
 - **時間：** 19:00(+0800) ~ 21:30(+0800)
 - **地點：** Fourdesire / 臺北市 大同區 重慶北路一段1-1號12樓
 - **活動頁：** [活動頁](https://blindegg.kktix.cc/events/202309gai)
-- **主辦：** Generative AI 年會製作委員會
+- **主辦：** [Generative AI 年會製作委員會](#Generative-AI)
 - **連同開場講者李慕約共會 9 位講者（據說這一場會有🍮）。
 
 
@@ -50,13 +50,18 @@
 
 ## AI 單位
 
-### Generative AI 年會製作委員會]
+### [ChatGPT x AI 融入教學](#ChatGPTxAI) [fb group](https://www.facebook.com/groups/164643249864737)
+一起交流如何利用 AI 讓教育更好
+
+### [Generative AI 年會製作委員會](#Generative-AI)
+嗨，一起來探索 AI 創作的世界吧！
+2022 年我們辦了第零屆詠唱者忘年會，認識了很多在時代巨輪下一起學習前進的夥伴。
+2023 年，我們希望可以與大家一起，有趣的、深入的、精彩的在 Generative 生成式 AI 的工具與討論中，找出屬於自己的定位。
+每月定期舉辦的小聚，讓我們可以交換彼此最新的技術與進度，如果你想跟大家分享你正在做的事情，歡迎填寫表單，成為小聚講者 >>> https://airtable.com/shrjnyEV7KFR7QcSf
 
 ### [Open Source Chatbot](#open-source-chatbot) [fb group](https://www.facebook.com/groups/592060117639034)
 Chatbot Developers Taiwan 社群致力於提供一個討論聊天機器人的相關應用的社群。在台北、台中每個月皆有一次的定期 meetup 聚會，每回小聚都會安排講者主題分享、新知討論，環繞在 chatbot 與 AI ，及大家共同關心的話題中。歡迎大家踴躍分享、自由與會眾交流，也期望大家可以在分享中得到收穫。 同時，也很歡迎各位自薦、推薦講者。亦或者是上台閃電秀，分享自己開發的 chatbot 或是任何 chatbot 有關的任何議題。
 
-### [ChatGPT x AI 融入教學](#ChatGPTxAI) [fb group](https://www.facebook.com/groups/164643249864737)
-一起交流如何利用 AI 讓教育更好
 
 ## AI 年會
 
