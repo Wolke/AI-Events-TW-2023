@@ -47,8 +47,8 @@
 
 作為一名啟發者而存在。致力於分享經驗和知識，幫助開拓、行動、克服。具有以下標誌：
 
-- **LINE Message API Expert**
-- **Google Developer Expert**
+- **[LINE Message API Expert](https://www.line-community.me/en/apiexpert/detail/60adb082851f7443b473e751)**
+- **[Google Developer Expert](https://developers.google.com/community/experts/directory?hl=zh-tw&text=wolke)**
 
 #### Books
 
