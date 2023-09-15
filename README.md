@@ -43,7 +43,7 @@
 
 ## AI 講者
 
-### [Wolke Lin 林建宏](#wolke-lin-林建宏)
+### [Wolke Lin 林建宏](#wolke-lin-林建宏) [medium](https://medium.com/@wolkesau)
 
 作為一名啟發者而存在。致力於分享經驗和知識，幫助開拓、行動、克服。具有以下標誌：
 
@@ -53,10 +53,10 @@
 #### Books
 
 - **ChatGPT 來襲，未來人人都需具備的運算思維！應用詠唱工程來釋放程式生產力 — 程式學習/開發篇**
-  - 可在 Momo、博客來、誠品、金石堂 購得。
+  - 可在 [Momo](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=11434876&Area=search&mdiv=403&oid=1_1&cid=index&kw=ChatGPT%2B%E4%BE%86%E8%A5%B2%EF%BC%8C%E6%9C%AA%E4%BE%86%E4%BA%BA%E4%BA%BA%E9%83%BD%E9%9C%80%E5%85%B7%E5%82%99%E7%9A%84%E9%81%8B%E7%AE%97%E6%80%9D%E7%B6%AD%EF%BC%81%E6%87%89%E7%94%A8%E8%A9%A0%E5%94%B1%E5%B7%A5%E7%A8%8B%E4%BE%86%E9%87%8B%E6%94%BE%E7%A8%8B%E5%BC%8F%E7%94%9F%E7%94%A2%E5%8A%9B%E2%80%94%E7%A8%8B%E5%BC%8F%E5%AD%B8%E7%BF%92%2F%E9%96%8B%E7%99%BC%E7%AF%87)、[博客來](https://www.books.com.tw/products/0010958809?sloc=main)、[誠品](https://www.eslite.com/product/10012011762682392081003)、[金石堂](https://www.kingstone.com.tw/basic/2013120666276) 購得。
 
 - **LINE聊天機器人+AI+雲端+開源+程式：輕鬆入門到完整學習**
-  - 可在 Momo、博客來、誠品、金石堂 購得。
+  - 可在 Momo、[博客來](https://www.books.com.tw/products/0010937937?gclid=Cj0KCQjwla-hBhD7ARIsAM9tQKsL4YGRqnvo12F-bZCtI7_i4MWl3_HGEW_d2K9qvHbKyw6XCwJrCIEaAuuIEALw_wcB)、誠品、金石堂 購得。
 
 #### Being
 
