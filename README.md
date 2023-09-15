@@ -18,6 +18,20 @@
 - **主辦：** [Generative AI 年會製作委員會](#Generative-AI)
 - **連同開場講者李慕約共會 9 位講者（據說這一場會有🍮）。
 
+### 交點 X 獺空間 AI之夜10 - 生成式 AI 應用：圖片生成與 AI 寫作技術應用分享
+- **日期：** 2023/09/23 (六)
+- **時間：** 18:30 ~ 21:30
+- **地點：** 獺空間，台北市松山區光復北路95號
+- **活動頁：** [活動頁](https://supr.one/3gN5UcE5/post/64fb03dee4b0518e5dd03248?fbclid=IwAR2fLQ-IgNS764QYx6KAYH5vUYct0Ewuj0TCrLhlecuo7EpYIxa5o5mPEZc)
+- **費用：** 350元(含場地與飲料費用)
+
+**活動內容：**
+- AI 生成應用分享：AI 圖片生成與 AI 寫作在創意與商業領域的應用案例
+
+**講者：**
+1. 鄭緯筌 Vista / 專業企業顧問與講師、臺灣電子商務暨創業聯誼會共同創辦人
+2. 林育正(阿正) / 資訊技術顧問
+3. 江汪家興 Peter / 汪寶科技藝術負責人
 
 ### Open Source Chatbot 小聚
 - **日期：** 10.12 (四) 晚上
@@ -48,6 +62,9 @@
 - **入場費：** 100元
 - **講者：** [Wolke Lin 林建宏](#wolke-lin-林建宏) As An Inspirer Collaborate AI，著有程式技術書籍，也是大學講師、社群講者。
 
+## AI 年會
+
+
 ## AI 單位
 
 ### [ChatGPT x AI 融入教學](#ChatGPTxAI) [fb group](https://www.facebook.com/groups/164643249864737)
@@ -63,7 +80,6 @@
 Chatbot Developers Taiwan 社群致力於提供一個討論聊天機器人的相關應用的社群。在台北、台中每個月皆有一次的定期 meetup 聚會，每回小聚都會安排講者主題分享、新知討論，環繞在 chatbot 與 AI ，及大家共同關心的話題中。歡迎大家踴躍分享、自由與會眾交流，也期望大家可以在分享中得到收穫。 同時，也很歡迎各位自薦、推薦講者。亦或者是上台閃電秀，分享自己開發的 chatbot 或是任何 chatbot 有關的任何議題。
 
 
-## AI 年會
 
 
 ## AI 講者
