@@ -65,6 +65,19 @@
 
 ## AI 年會
 
+### 親子天下 AI X 教育年會
+
+- **日期：** 10.4 三台北文創6F
+- **主題：** 只有參與，才能形塑我們想要的未來
+- **講者：** Andreas Schleicher OECD 教育和技能主席 等
+- **活動頁：** [活動頁](https://edu.parenting.com.tw/educonference-350)
+
+### 教育 AI 年會
+
+- **地點：** 華山 1914 文化創意產業園區 & 線上直播
+- **時間：** 2023.9.22（五） - 2023.9.24（日）
+- **網站：** [教育 AI 年會](https://www.example.com/education-ai-symposium)
+
 
 ## AI 單位
 
