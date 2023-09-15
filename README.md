@@ -16,26 +16,26 @@
 - **地點：** 新北三峽 一片一頁
 - **活動頁：** [活動頁](活動頁的連結)
 - **入場費：** 免費入場
-- **講者：** [Wolke Lin 林建宏](#wolke-lin-林建宏)
+- **講者：** [Wolke Lin 林建宏](#wolke-lin-林建宏) As An Inspirer Collaborate AI，著有程式技術書籍，也是大學講師、社群講者。
 
 ### Open Source Chatbot 小聚
 - **日期：** 10.12 (四) 晚上
 - **地點：** 台北重慶南路 天瓏書局
 - **入場費：** 100元（可抵書款）
-- **講者：** [Wolke Lin 林建宏](#wolke-lin-林建宏)
+- **講者：** [Wolke Lin 林建宏](#wolke-lin-林建宏) As An Inspirer Collaborate AI，著有程式技術書籍，也是大學講師、社群講者。
 
 ### AI 與 Chatbot 實作工作坊
 - **日期：** 10.16 (一) 下午
 - **地點：** 台北大安 恬野書
 - **入場費：** 200元（100元可折抵店內消費）
-- **講者：** [Wolke Lin 林建宏](#wolke-lin-林建宏)
+- **講者：** [Wolke Lin 林建宏](#wolke-lin-林建宏) As An Inspirer Collaborate AI，著有程式技術書籍，也是大學講師、社群講者。
 
 ### ChatGPT 與 AI 應用 專題分享會
 - **日期：** 10.22 (日)
 - **地點：** 新北中和南勢角 燦爛時光：東南亞主題書店 Brilliant Time bookstore
 - **活動頁：** [活動頁](活動頁的連結)
 - **入場費：** 100元
-- **講者：** [Wolke Lin 林建宏](#wolke-lin-林建宏)
+- **講者：** [Wolke Lin 林建宏](#wolke-lin-林建宏) As An Inspirer Collaborate AI，著有程式技術書籍，也是大學講師、社群講者。
 
 ## AI 年會
 
