@@ -9,6 +9,11 @@
 2. [AI 講座](#ai-講座)
 3. [AI 年會](#ai-年會)
 
+## 自動將 AI 相關活動加入 Google 行事曆
+- **[Google 行事曆連結](https://calendar.google.com/calendar/embed?src=c_2b56560761ffbb1f9753287cce925c12c66eff028628429ffa48e3d4e77735f9%40group.calendar.google.com&ctz=Asia%2FTaipei)** 
+- **[新增活動至行事曆表單](https://airtable.com/appXagAqcUQV5ArTW/shrFwPOuXxsh3RLpt)**
+  - 歡迎大家自由新增活動！
+- **行事曆維護者：** [Generative AI 年會製作委員會](https://www.facebook.com/gaiconf)
 
 ## AI 小聚
 
@@ -17,7 +22,7 @@
 - **時間：** 19:00(+0800) ~ 21:30(+0800)
 - **地點：** Fourdesire / 臺北市 大同區 重慶北路一段1-1號12樓
 - **活動頁：** [活動頁](https://blindegg.kktix.cc/events/202309gai)
-- **主辦：** [Generative AI 年會製作委員會](#Generative-AI)
+- **主辦：** [Generative AI 年會製作委員會](https://www.facebook.com/gaiconf)
 - **費用：** 800 ~ 2000 元
 - **講者：** 連同開場講者李慕約共會 9 位講者（據說這一場會有🍮）。
 
@@ -97,7 +102,7 @@
 ### [ChatGPT x AI 融入教學](#ChatGPTxAI) [fb group](https://www.facebook.com/groups/164643249864737)
 一起交流如何利用 AI 讓教育更好
 
-### [Generative AI 年會製作委員會](#Generative-AI)
+### [Generative AI 年會製作委員會](https://www.facebook.com/gaiconf)
 嗨，一起來探索 AI 創作的世界吧！
 2022 年我們辦了第零屆詠唱者忘年會，認識了很多在時代巨輪下一起學習前進的夥伴。
 2023 年，我們希望可以與大家一起，有趣的、深入的、精彩的在 Generative 生成式 AI 的工具與討論中，找出屬於自己的定位。
